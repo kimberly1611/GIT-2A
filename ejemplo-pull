@@ -1,0 +1,5 @@
+este es un ejemplo de como agregar o actualizar desde  github y verbos en VS-code
+para realizar esta utilizando  el comando:
+git pull origin master 
+o si trabajas en rama main:
+git pull origin main
